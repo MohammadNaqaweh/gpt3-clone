@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
+
+### This Web Page was designed based on a Figma design [link](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3).
+
+I created this react web page based on the design. I also added media queries to ensure the desgin looks good on smaller devices.
 
 ## Available Scripts
 
